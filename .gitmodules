@@ -1,0 +1,3 @@
+[submodule "software/CodeProject1"]
+	path = software/CodeProject1
+	url = https://github.com/FarHorizonsTest/CodeProject1.git
